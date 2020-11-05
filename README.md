@@ -7,4 +7,4 @@ The instrument uses two UM66 chips both playing the same melody. They modulate o
 
 Using the potentiometer to 'starve' the power supply increases the melodic distortions.
 
-
+There are files to mill a single sided PCB using gcode + a zip file containing Gerber files.
